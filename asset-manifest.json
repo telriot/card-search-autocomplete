@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/card-search-autocomplete/static/js/main.96a10f50.chunk.js",
+    "main.js.map": "/card-search-autocomplete/static/js/main.96a10f50.chunk.js.map",
+    "runtime-main.js": "/card-search-autocomplete/static/js/runtime-main.a89baae4.js",
+    "runtime-main.js.map": "/card-search-autocomplete/static/js/runtime-main.a89baae4.js.map",
+    "static/js/2.a9114bd6.chunk.js": "/card-search-autocomplete/static/js/2.a9114bd6.chunk.js",
+    "static/js/2.a9114bd6.chunk.js.map": "/card-search-autocomplete/static/js/2.a9114bd6.chunk.js.map",
+    "index.html": "/card-search-autocomplete/index.html",
+    "precache-manifest.d6e3c78be2470ee6094105bb7e9ee790.js": "/card-search-autocomplete/precache-manifest.d6e3c78be2470ee6094105bb7e9ee790.js",
+    "service-worker.js": "/card-search-autocomplete/service-worker.js",
+    "static/js/2.a9114bd6.chunk.js.LICENSE": "/card-search-autocomplete/static/js/2.a9114bd6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a89baae4.js",
+    "static/js/2.a9114bd6.chunk.js",
+    "static/js/main.96a10f50.chunk.js"
+  ]
+}
